@@ -5,3 +5,4 @@
 - 15552 : 빠른 A+B (https://www.acmicpc.net/problem/15552)
 - 1110 : 더하기 사이클 (https://www.acmicpc.net/problem/1110)
 - 1152 : 단어의 개수 (https://www.acmicpc.net/problem/1152)
+- 2577 : 숫자의 개수 (https://www.acmicpc.net/problem/2577)
