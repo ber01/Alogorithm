@@ -6,3 +6,4 @@
 - 1110 : 더하기 사이클 (https://www.acmicpc.net/problem/1110)
 - 1152 : 단어의 개수 (https://www.acmicpc.net/problem/1152)
 - 2577 : 숫자의 개수 (https://www.acmicpc.net/problem/2577)
+- 8958 : OX퀴즈 (https://www.acmicpc.net/problem/8958)
