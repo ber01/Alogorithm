@@ -10,3 +10,4 @@
 - 2920 : 음계 (https://www.acmicpc.net/problem/2920)
 - 11654 : 아스키 코드 (https://www.acmicpc.net/problem/11654)
 - 10809 : 알파벳 찾기 (https://www.acmicpc.net/problem/10809)
+- 2675 : 문자열 반복 (https://www.acmicpc.net/problem/2675)
