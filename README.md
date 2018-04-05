@@ -13,3 +13,4 @@
 - 2675 : 문자열 반복 (https://www.acmicpc.net/problem/2675)
 - 1157 : 단어 공부 (https://www.acmicpc.net/problem/1157)
 - 2908 : 상수 (https://www.acmicpc.net/problem/2908)
+- 10951 : A+B -4 (https://www.acmicpc.net/problem/10951)
