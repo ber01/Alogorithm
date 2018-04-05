@@ -14,3 +14,4 @@
 - 1157 : 단어 공부 (https://www.acmicpc.net/problem/1157)
 - 2908 : 상수 (https://www.acmicpc.net/problem/2908)
 - 10951 : A+B -4 (https://www.acmicpc.net/problem/10951)
+- 10818 : 최소, 최대 (https://www.acmicpc.net/problem/10818)
