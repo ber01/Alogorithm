@@ -15,3 +15,4 @@
 - 2908 : 상수 (https://www.acmicpc.net/problem/2908)
 - 10951 : A+B -4 (https://www.acmicpc.net/problem/10951)
 - 10818 : 최소, 최대 (https://www.acmicpc.net/problem/10818)
+- 11718 : 그대로 출력하기 (https://www.acmicpc.net/problem/11718)
