@@ -18,3 +18,4 @@
 - 11718 : 그대로 출력하기 (https://www.acmicpc.net/problem/11718)
 - 9012 : 괄호 (https://www.acmicpc.net/problem/9012)
 - 2490 : 윷놀이 (https://www.acmicpc.net/problem/2490)
+- 10872 : 팩토리얼 (https://www.acmicpc.net/problem/10872)
