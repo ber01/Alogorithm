@@ -17,3 +17,4 @@
 - 10818 : 최소, 최대 (https://www.acmicpc.net/problem/10818)
 - 11718 : 그대로 출력하기 (https://www.acmicpc.net/problem/11718)
 - 9012 : 괄호 (https://www.acmicpc.net/problem/9012)
+- 2490 : 윷놀이 (https://www.acmicpc.net/problem/2490)
