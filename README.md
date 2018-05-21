@@ -19,3 +19,4 @@
 - 9012 : 괄호 (https://www.acmicpc.net/problem/9012)
 - 2490 : 윷놀이 (https://www.acmicpc.net/problem/2490)
 - 10872 : 팩토리얼 (https://www.acmicpc.net/problem/10872)
+- 10797 : 10부제 (https://www.acmicpc.net/problem/10797)
