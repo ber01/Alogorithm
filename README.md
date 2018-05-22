@@ -1,4 +1,4 @@
-# Baekjoon Alogorithm
+## Baekjoon Alogorithm ##
 
 - 10871 : X보다 작은 수 (https://www.acmicpc.net/problem/10871)
 - 4344 : 평균은 넘겠지 (https://www.acmicpc.net/problem/4344)
@@ -21,3 +21,4 @@
 - 10872 : 팩토리얼 (https://www.acmicpc.net/problem/10872)
 - 10797 : 10부제 (https://www.acmicpc.net/problem/10797)
 - 5543 : 상근날드 (https://www.acmicpc.net/problem/5543)
+- 5565 : 영수증 (https://www.acmicpc.net/problem/5565)
