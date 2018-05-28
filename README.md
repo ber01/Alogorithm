@@ -24,3 +24,4 @@
 - 5565 : 영수증 (https://www.acmicpc.net/problem/5565)
 - 10886 : 0 = not cute / 1 = cute (https://www.acmicpc.net/problem/10886)
 - 5585 : 거스름돈 (https://www.acmicpc.net/problem/5585)
+- 3053 : 택시 기하학 (https://www.acmicpc.net/problem/3053)
