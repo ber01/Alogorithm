@@ -28,3 +28,4 @@
 - 5064 : TGN (https://www.acmicpc.net/problem/5063)
 - 2822 : 점수 계산 (https://www.acmicpc.net/problem/2822)
 - 5597 : 과제 안 내신 분..? (https://www.acmicpc.net/problem/5597)
+- 12790 : Mini Fantasy War (https://www.acmicpc.net/problem/12790)
