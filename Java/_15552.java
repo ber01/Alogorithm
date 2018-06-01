@@ -1,5 +1,10 @@
+package Baekjoon;
+
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.util.StringTokenizer;
 
 public class _15552 {
 
@@ -8,14 +13,18 @@ public class _15552 {
         try {
 
             BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-            int num = Integer.parseInt(br.readLine());
+            BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+            int N = Integer.parseInt(br.readLine());
 
-            for(int i = 0; i < num; i++){
+            for(int i = 0; i < N; i++){
 
-                String[] list = br.readLine().split(" ");
-
-                System.out.println(Integer.parseInt(list[0]) + Integer.parseInt(list[1]));
+                StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+                bw.write(Integer.parseInt(st.nextToken()) + Integer.parseInt(st.nextToken()) + "\n");
+                bw.flush();
             }
+
+            br.close();
+            bw.close();
         }
 
         catch(Exception e){
