@@ -41,3 +41,4 @@
 - 10824 : 네 수 (https://www.acmicpc.net/problem/10824)
 - 11023 : 더하기3 (https://www.acmicpc.net/problem/11023)
 - 2750 : 수 정렬하기 (https://www.acmicpc.net/problem/2750) 
+- 10815 : 숫자 카드 (https://www.acmicpc.net/problem/10815)
