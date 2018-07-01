@@ -43,3 +43,4 @@
 - 2750 : 수 정렬하기 (https://www.acmicpc.net/problem/2750) 
 - 10815 : 숫자 카드 (https://www.acmicpc.net/problem/10815)
 - 1764 : 듣보잡(https://www.acmicpc.net/problem/1764)
+- 1927 : 최소 힙 (https://www.acmicpc.net/problem/1927)
