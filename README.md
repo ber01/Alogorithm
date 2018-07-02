@@ -46,3 +46,4 @@
 - 1927 : 최소 힙 (https://www.acmicpc.net/problem/1927)
 - 1924 : 2007년 (https://www.acmicpc.net/problem/1924)
 - 10799 : 쇠막대기 (https://www.acmicpc.net/problem/10799)
+- 1406 : 에디터(https://www.acmicpc.net/problem/1406)
