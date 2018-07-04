@@ -48,3 +48,4 @@
 - 10799 : 쇠막대기 (https://www.acmicpc.net/problem/10799)
 - 1406 : 에디터 (https://www.acmicpc.net/problem/1406)
 - 10828 : 스택 (https://www.acmicpc.net/problem/10828)
+- 2493 : 탑 (https://www.acmicpc.net/problem/2493)
