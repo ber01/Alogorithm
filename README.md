@@ -45,3 +45,7 @@
 - 1764 : 듣보잡(https://www.acmicpc.net/problem/1764)
 - 1927 : 최소 힙 (https://www.acmicpc.net/problem/1927)
 - 1924 : 2007년 (https://www.acmicpc.net/problem/1924)
+- 10799 : 쇠막대기 (https://www.acmicpc.net/problem/10799)
+- 1406 : 에디터 (https://www.acmicpc.net/problem/1406)
+- 10828 : 스택 (https://www.acmicpc.net/problem/10828)
+- 2493 : 탑 (https://www.acmicpc.net/problem/2493)
