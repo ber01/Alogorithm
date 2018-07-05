@@ -50,3 +50,4 @@
 - 10828 : 스택 (https://www.acmicpc.net/problem/10828)
 - 2493 : 탑 (https://www.acmicpc.net/problem/2493)
 - 1874 : 스택수열 (https://www.acmicpc.net/problem/1874)
+- 10845 : 큐 (https://www.acmicpc.net/problem/10845)
