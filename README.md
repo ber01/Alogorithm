@@ -51,3 +51,4 @@
 - 2493 : 탑 (https://www.acmicpc.net/problem/2493)
 - 1874 : 스택수열 (https://www.acmicpc.net/problem/1874)
 - 10845 : 큐 (https://www.acmicpc.net/problem/10845)
+- 1158 : 조세퍼스 문제 (https://www.acmicpc.net/problem/1158)
