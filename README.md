@@ -61,3 +61,4 @@
 - 11726 : 2xn 타일링 (https://www.acmicpc.net/problem/11726)
 - 1793 : 타일링 (https://www.acmicpc.net/problem/1793)
 - 11727 : 2xn 타일링 2 (https://www.acmicpc.net/problem/11727)
+- 11365 : !밀비 급일 (https://www.acmicpc.net/problem/11365)
