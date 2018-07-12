@@ -63,3 +63,4 @@
 - 11727 : 2xn 타일링 2 (https://www.acmicpc.net/problem/11727)
 - 11365 : !밀비 급일 (https://www.acmicpc.net/problem/11365)
 - 2941 : 크로아티아 알파벳 (https://www.acmicpc.net/problem/2941)
+- 1065 : 한 수 (https://www.acmicpc.net/problem/1065)
