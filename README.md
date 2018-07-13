@@ -65,3 +65,4 @@
 - 2941 : 크로아티아 알파벳 (https://www.acmicpc.net/problem/2941)
 - 1065 : 한 수 (https://www.acmicpc.net/problem/1065)
 - 9095 : 1, 2, 3 더하기 (https://www.acmicpc.net/problem/9095)
+- 2309 : 일곱 난쟁이 (https://www.acmicpc.net/problem/2309)
