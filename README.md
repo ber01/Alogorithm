@@ -69,4 +69,8 @@
 - 10808 : 알파벳 개수 (https://www.acmicpc.net/problem/10808)
 - 10820 : 문자열 분석 (https://www.acmicpc.net/problem/10820)
 - 11655 : ROT13 (https://www.acmicpc.net/problem/11655)
-- 11656 : 접미사 배열 (https://www.acmicpc.net/problem/11656
+- 11656 : 접미사 배열 (https://www.acmicpc.net/problem/11656)
+- 1026 : 보물 (https://www.acmicpc.net/problem/1026)
+- 1032 : 명령 프롬프트 (https://www.acmicpc.net/problem/1032)
+- 6502 : 동혁 피자 (https://www.acmicpc.net/problem/6502)
+- 10866 : 덱 (https://www.acmicpc.net/problem/10866)
