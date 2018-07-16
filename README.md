@@ -75,6 +75,8 @@
 - 6502 : 동혁 피자 (https://www.acmicpc.net/problem/6502)
 - 10866 : 덱 (https://www.acmicpc.net/problem/10866)
 - 11052 : 붕어빵 판매하기 (https://www.acmicpc.net/problem/11052)
+- 2193 : 이친수 (https://www.acmicpc.net/problem/2193)
 
 ## PS ##
 - 11052 : 붕어빵 판매하기 (https://www.acmicpc.net/problem/11052)
+- 2193 : 이친수 (https://www.acmicpc.net/problem/2193)
