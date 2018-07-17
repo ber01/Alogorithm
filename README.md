@@ -78,6 +78,7 @@
 - 2193 : 이친수 (https://www.acmicpc.net/problem/2193)
 - 10844 : 쉬운 계단 수 (https://www.acmicpc.net/problem/10844)
 - 11057 : 오르막 수 (https://www.acmicpc.net/problem/11057)
+- 10798 : 세로읽기 (https://www.acmicpc.net/problem/10798)
 
 ## PS ##
 - 11052 : 붕어빵 판매하기 (https://www.acmicpc.net/problem/11052)
