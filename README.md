@@ -81,6 +81,8 @@
 - 10798 : 세로읽기 (https://www.acmicpc.net/problem/10798)
 - 1371 : 가장 많은 글자 (https://www.acmicpc.net/problem/1371)
 - 5704 : 팬그램 (https://www.acmicpc.net/problem/5704)
+- 3052 : 나머지 (https://www.acmicpc.net/problem/3052)
+- 5789 : 한다 안한다 (https://www.acmicpc.net/problem/5789)
 
 ## PS ##
 - 11052 : 붕어빵 판매하기 (https://www.acmicpc.net/problem/11052)
