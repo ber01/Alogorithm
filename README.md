@@ -83,6 +83,11 @@
 - 5704 : 팬그램 (https://www.acmicpc.net/problem/5704)
 - 3052 : 나머지 (https://www.acmicpc.net/problem/3052)
 - 5789 : 한다 안한다 (https://www.acmicpc.net/problem/5789)
+- 5800 : 성적 통계 (https://www.acmicpc.net/problem/5800)
+- 10773 : 제로 (https://www.acmicpc.net/problem/10773)
+- 11008 : 복붙의 달인 (https://www.acmicpc.net/problem/11008)
+- 11024 : 더하기 4 (https://www.acmicpc.net/problem/11024)
+- 11383 : 뚊 (https://www.acmicpc.net/problem/11383)
 
 ## PS ##
 - 11052 : 붕어빵 판매하기 (https://www.acmicpc.net/problem/11052)
