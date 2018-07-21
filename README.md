@@ -88,6 +88,7 @@
 - 11008 : 복붙의 달인 (https://www.acmicpc.net/problem/11008)
 - 11024 : 더하기 4 (https://www.acmicpc.net/problem/11024)
 - 11383 : 뚊 (https://www.acmicpc.net/problem/11383)
+- 6378 : 디지털 루트 (https://www.acmicpc.net/problem/6378)
 
 ## PS ##
 - 11052 : 붕어빵 판매하기 (https://www.acmicpc.net/problem/11052)
