@@ -91,6 +91,7 @@
 - 6378 : 디지털 루트 (https://www.acmicpc.net/problem/6378)
 - 3047 : ABC (https://www.acmicpc.net/problem/3047)
 - 5613 : 계산기 프로그램 (https://www.acmicpc.net/problem/5613)
+- 1978 : 소수 찾기 (https://www.acmicpc.net/problem/1978)
 
 ## PS ##
 - 11052 : 붕어빵 판매하기 (https://www.acmicpc.net/problem/11052)
