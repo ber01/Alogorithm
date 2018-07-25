@@ -93,6 +93,7 @@
 - 5613 : 계산기 프로그램 (https://www.acmicpc.net/problem/5613)
 - 1978 : 소수 찾기 (https://www.acmicpc.net/problem/1978)
 - 1929 : 소수 구하기 (https://www.acmicpc.net/problem/1929)
+- 2581 : 소수 (https://www.acmicpc.net/problem/2581)
 
 ## PS ##
 - 11052 : 붕어빵 판매하기 (https://www.acmicpc.net/problem/11052)
