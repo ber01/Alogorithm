@@ -95,6 +95,7 @@
 - 1929 : 소수 구하기 (https://www.acmicpc.net/problem/1929)
 - 2581 : 소수 (https://www.acmicpc.net/problem/2581)
 - 2153 : 소수 단어 (https://www.acmicpc.net/problem/2153)
+- 4948 : 베르트랑 공준 (https://www.acmicpc.net/problem/4948)
 
 ## PS ##
 - 11052 : 붕어빵 판매하기 (https://www.acmicpc.net/problem/11052)
