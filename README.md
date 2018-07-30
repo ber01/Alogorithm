@@ -97,6 +97,10 @@
 - 2153 : 소수 단어 (https://www.acmicpc.net/problem/2153)
 - 4948 : 베르트랑 공준 (https://www.acmicpc.net/problem/4948)
 - 2476 : 주사위 게임 (https://www.acmicpc.net/problem/2476)
+- 1834 : 나머지와 몫이 같은 수 (https://www.acmicpc.net/problem/1834)
+- 1850 : 최대공약수 (https://www.acmicpc.net/problem/1850)
+- 2484 : 주사위 네개 (https://www.acmicpc.net/problem/2484)
+- 5618 : 공약수 (https://www.acmicpc.net/problem/5618)
 
 ## PS ##
 - 11052 : 붕어빵 판매하기 (https://www.acmicpc.net/problem/11052)
