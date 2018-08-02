@@ -101,6 +101,7 @@
 - 1850 : 최대공약수 (https://www.acmicpc.net/problem/1850)
 - 2484 : 주사위 네개 (https://www.acmicpc.net/problem/2484)
 - 5618 : 공약수 (https://www.acmicpc.net/problem/5618)
+- 2609 : 최대공약수와 최소공배수 (https://www.acmicpc.net/problem/2609)
 
 ## PS ##
 - 11052 : 붕어빵 판매하기 (https://www.acmicpc.net/problem/11052)
