@@ -103,6 +103,7 @@
 - 5618 : 공약수 (https://www.acmicpc.net/problem/5618)
 - 2609 : 최대공약수와 최소공배수 (https://www.acmicpc.net/problem/2609)
 - 2501 : 약수 구하기 (https://www.acmicpc.net/problem/2501)
+- 9506 : 약수들의 합 (https://www.acmicpc.net/problem/9506)
 
 ## PS ##
 - 11052 : 붕어빵 판매하기 (https://www.acmicpc.net/problem/11052)
