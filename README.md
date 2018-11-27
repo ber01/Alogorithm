@@ -108,6 +108,7 @@
 - 1920 : 수 찾기 (https://www.acmicpc.net/problem/1920)
 - 2178 : 미로 탐색 (https://www.acmicpc.net/problem/2178)
 - 16283 : Farm (https://www.acmicpc.net/problem/16283)
+- 10989 : 수 정렬하기 3 (https://www.acmicpc.net/problem/10989)
 
 ## PS ##
 - 11052 : 붕어빵 판매하기 (https://www.acmicpc.net/problem/11052)
